@@ -38,6 +38,7 @@ public class BikeUse {
 		System.out.println(max);
 
 		System.out.println("..........End of the program..............");
+		System.out.println("..........justing checking...........");
 	}
 
 }
